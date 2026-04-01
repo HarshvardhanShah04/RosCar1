@@ -117,6 +117,11 @@ This project was built as an introductory step into ROS 2 to understand:
 It focuses on clarity and simplicity rather than completeness.
 
 ---
+## Video
+
+[![Watch Demo](https://img.youtube.com/vi/LPO-KUtHt-s/0.jpg)](https://youtube.com/shorts/LPO-KUtHt-s?feature=share)
+
+---
 
 ## 🧑‍💻 Note
 
