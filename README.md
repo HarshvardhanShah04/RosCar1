@@ -120,7 +120,7 @@ It focuses on clarity and simplicity rather than completeness.
 
 ## 🧑‍💻 Note
 
-This was one of my early ROS 2 projects. Since then, I have continued improving my understanding and building more advanced systems.
+This was one of my early ROS 2 projects. Since then, I have continued improving my understanding and building better systems.
 
 ---
 
